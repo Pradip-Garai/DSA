@@ -8,7 +8,7 @@
   ------------------
     |=> Take input and print
     |=> Calculate Sum Of Aarray Elements
-    |=> Liner Search on Array Elements
+    |=> Linear Search on Array Elements
     |=> Reverse An Array
     |=> Find Maximum Element in Array
     |=> Find Second Maximum Element in Array
