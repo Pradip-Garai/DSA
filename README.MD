@@ -23,9 +23,9 @@
 
   1.🔃 Sorting Algorithms
   ------------------
-    | Selection Sort
-    | Bubble Sort
-    | Insertion Sort
+     Selection Sort
+     Bubble Sort
+     Insertion Sort
   
   2.🔎 Searching Algorithms
   -------------------------
