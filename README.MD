@@ -6,15 +6,15 @@
   
   1. 📚 Array
   ------------------
-    |=> Take input and print
-    |=> Calculate Sum Of Aarray Elements
-    |=> Linear Search on Array Elements
-    |=> Reverse An Array
-    |=> Find Maximum Element in Array
-    |=> Find Second Maximum Element in Array
-    |=> Find Minimum Element in Array
-    |=> Find Second Minimum Element in Array
-    |=> Rotate Array By n Numbers
+     Take input and print
+     Calculate Sum Of Aarray Elements
+     Linear Search on Array Elements
+     Reverse An Array
+     Find Maximum Element in Array
+     Find Second Maximum Element in Array
+     Find Minimum Element in Array
+     Find Second Minimum Element in Array
+     Rotate Array By n Numbers
    
 
 <br>****************************************************************************************************************************<br>
@@ -29,12 +29,12 @@
   
   2.🔎 Searching Algorithms
   -------------------------
-    |=> Linear Search
-    |=> Binary Search
+     Linear Search
+     Binary Search
   
    2.🔎 Binary Search Algorithms
   -------------------------
-    |=> Implement Binary Search
+     Implement Binary Search
     
 
   
