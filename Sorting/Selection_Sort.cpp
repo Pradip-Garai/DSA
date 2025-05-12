@@ -1,38 +1,42 @@
-//Wap to implement Bubble Sort Algorithm 
+//Wap to implement Selection Sort Algorithm
 #include<iostream>
 using namespace std;
 
-void bubbleSort(int arr[],int n){
+//Selection Sort Algo
+void selectionSort(int arr[],int n){
    for(int i=0;i<n-1;i++){
+      int index=i;
+      int mini=i;
       for(int j=i+1;j<n;j++){
-          if(arr[i]>arr[j])
-            swap(arr[i],arr[j]);
+          if(arr[j]<arr[mini])
+            mini=j;
       }
+      swap(arr[index],arr[mini]);
    }
 }
 
 int main(){
     int s;
-    cout<<"Enter Array Size : ";
+    cout<<"Enter The Size of Array : ";
     cin>>s;
 
     int arr[s];
-    cout<<"Enter "<<s<<" Elements in Array : ";
+    cout<<"Enter "<<s<<" Elements in array : ";
     for(int i=0;i<s;i++)
-       cin>>arr[i];
+      cin>>arr[i];
 
     //Print Elements Before Sorting 
     cout<<"Before Sorting : ";
     for(int i=0;i<s;i++)
        cout<<arr[i]<<" ";
 
-    //Bubble Sort
-    bubbleSort(arr,s);
+    // selection sort
+    selectionSort(arr,s);
 
      //Print Elements After Sorting 
     cout<<"\nAfter Sorting : ";
     for(int i=0;i<s;i++)
        cout<<arr[i]<<" ";
-
+       
     return 0;
 }
