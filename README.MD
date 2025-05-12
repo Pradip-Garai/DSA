@@ -25,6 +25,7 @@
   ------------------
     |=> Selection Sort
     |=> Bubble Sort
+    |=> Insertion Sort
   
   2.🔎 Searching Algorithms
   -------------------------
