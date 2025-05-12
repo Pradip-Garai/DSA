@@ -31,6 +31,10 @@
   -------------------------
     |=> Linear Search
     |=> Binary Search
+  
+   2.🔎 Binary Search Algorithms
+  -------------------------
+    |=> Implement Binary Search
     
 
   
