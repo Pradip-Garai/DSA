@@ -18,7 +18,8 @@
 
    2. 🌳 Tree
    ------------------
-     Create a Tree
+     Create a Binary Tree Method 1 (using Linkedlist and Queue)
+     Create a Binary Tree Method 2 (Using Recursion)
    
 
 <br>****************************************************************************************************************************<br>
