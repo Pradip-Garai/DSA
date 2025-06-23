@@ -15,6 +15,10 @@
      Find Minimum Element in Array
      Find Second Minimum Element in Array
      Rotate Array By n Numbers
+
+   2. 🌳 Tree
+   ------------------
+     Create a Tree
    
 
 <br>****************************************************************************************************************************<br>
