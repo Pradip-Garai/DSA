@@ -16,10 +16,14 @@
      Find Second Minimum Element in Array
      Rotate Array By n Numbers
 
-   2. 🌳 Tree
+   2. 🌳 Binary Tree
    ------------------
      Create a Binary Tree Method 1 (using Linkedlist and Queue)
      Create a Binary Tree Method 2 (Using Recursion)
+     Preorder Traversal
+     Inorder Traversal
+     Postorder Traversal
+     
    
 
 <br>****************************************************************************************************************************<br>
