@@ -26,6 +26,8 @@
      Levelorder Traversal
      Size of Binary Tree
      Sum of Binary Tree
+     Count Leave Node of Binary Tree
+     Count Non-Leave Node of Binary Tree
      
    
 
