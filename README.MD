@@ -24,6 +24,7 @@
      Inorder Traversal
      Postorder Traversal
      Levelorder Traversal
+     Size of Binary Tree
      
    
 
