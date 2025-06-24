@@ -25,6 +25,7 @@
      Postorder Traversal
      Levelorder Traversal
      Size of Binary Tree
+     Sum of Binary Tree
      
    
 
