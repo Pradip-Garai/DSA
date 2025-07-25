@@ -50,6 +50,8 @@
   -------------------------
      Implement Binary Search
      Find first and last occurance of Target value
+     Search Insert Position 
+     Find Square Root of a  Number
     
 
   
