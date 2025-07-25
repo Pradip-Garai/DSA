@@ -49,6 +49,7 @@
    3.🔎 Binary Search Algorithms
   -------------------------
      Implement Binary Search
+     Find first and last occurance of Target value
     
 
   
