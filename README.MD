@@ -52,6 +52,7 @@
      Find first and last occurance of Target value
      Search Insert Position 
      Find Square Root of a  Number
+     Find Number of  occurance of Target value 
     
 
   
