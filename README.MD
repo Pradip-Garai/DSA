@@ -39,7 +39,6 @@
   ------------------
      Selection Sort
      Bubble Sort
-     Insertion Sort
   
   2.🔎 Searching Algorithms
   -------------------------
@@ -53,6 +52,8 @@
      Search Insert Position 
      Find Square Root of a  Number
      Find Number of  occurance of Target value 
+     Find Minimum Element in Rotate Array
+     Find Peak Element in Array
     
 
   
