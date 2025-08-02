@@ -54,6 +54,7 @@
      Find Number of  occurance of Target value 
      Find Minimum Element in Rotate Array
      Find Peak Element in Array
+     Find Target Element in Rotate Array
     
 
   
